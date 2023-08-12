@@ -1,0 +1,4 @@
+- @Andela kickstart week seven project
+- It is about to build weather application so that user can check the weather of the current place
+- It is about to know about the API and more js and git control version
+- to be done personal
